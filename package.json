@@ -22,7 +22,8 @@
   },
   "license": "MIT",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "publishConfig": {
     "access": "public"
@@ -31,8 +32,8 @@
     "type": "git",
     "url": "git+https://github.com/raythings/rayact-dev-client.git"
   },
-  "homepage": "https://github.com/raythings/rayact-dev-client#readme",
+  "homepage": "https://github.com/raythings/rayact#readme",
   "bugs": {
-    "url": "https://github.com/raythings/rayact-dev-client/issues"
+    "url": "https://github.com/raythings/rayact/issues"
   }
 }
